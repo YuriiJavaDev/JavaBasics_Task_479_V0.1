@@ -397,4 +397,3 @@ This is like changing your last name in your passport when you're already in the
 **Error №5: Returning only -1, 0, or 1.**
 
 The compareTo method can return any negative or positive number, not necessarily exactly -1 or 1. But for simplicity, -1/0/1 is often used.
-
